@@ -1,4 +1,4 @@
 # Template
 competitive programming
 <br>
-Author- AMIT PANDEY
+Author- AMIT PANDEY(github)
